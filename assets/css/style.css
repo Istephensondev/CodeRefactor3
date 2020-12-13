@@ -3,10 +3,11 @@
     padding: 0;
     margin: 0;
 }
-
+/* Styles Body */
 body {
     background-color: #d9dcd6;
 }
+/* Styles Header */
 
 .header {
     padding: 20px;
@@ -14,6 +15,7 @@ body {
     background-color: #2a607c;
     color: #ffffff;
 }
+
 
 .header h1 {
     display: inline-block;
@@ -74,7 +76,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-
+/* Organize Style Benefits */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -188,6 +190,7 @@ p {
     font-size: 36px;
 }
 
+/* Styles Footer */
 .footer {
     padding: 30px;
     clear: both;
